@@ -1,0 +1,1179 @@
+
+
+-------------------------------
+
+Date (UTC): 07/19/2024 23:41:30
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1vk16o9mjp9i",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "test",
+    "phone": "23432432432432",
+    "comments": "1vk16o9mjp9i",
+    "country": "DZ",
+    "ip_address": "188.170.84.34",
+    "user_agent": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Safari\/537.36",
+    "sub1": "1vk16o9mjp9i",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "%7B%7Bad.id%7D%7D_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24738257}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 14:25:41
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "25t7j77mknpe",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0645\u0635\u0637\u0641\u0627\u0648\u064a \u0628\u0648\u0646\u0627\u0628",
+    "phone": "0671869963",
+    "comments": "25t7j77mknpe",
+    "country": "DZ",
+    "ip_address": "154.121.76.221",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; DUB-LX1 Build\/HUAWEIDUB-LX1; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/124.0.6367.171 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/ar_AR;FBAV\/405.0.0.8.113;]",
+    "sub1": "25t7j77mknpe",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24742636}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 14:53:32
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "162vsjqmkppa",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0641\u0631\u062d\u0627\u062a. \u0628\u0627\u062a\u0646\u0629",
+    "phone": "0773838833",
+    "comments": "162vsjqmkppa",
+    "country": "DZ",
+    "ip_address": "41.200.115.69",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 8.0.0; LDN-LX2 Build\/HUAWEILDN-LX2; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "162vsjqmkppa",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210037045280006_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24742824}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 15:29:35
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "2o6tlpnmkrop",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0645\u0643\u062f\u0648\u0631\u0627\u0644\u062e\u064a\u0631",
+    "phone": "0793176828",
+    "comments": "2o6tlpnmkrop",
+    "country": "DZ",
+    "ip_address": "129.45.112.177",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 12; 220733SI Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/ar_AR;FBAV\/413.0.0.5.100;]",
+    "sub1": "2o6tlpnmkrop",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120213039068200747_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24743048}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 15:53:11
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "3dn2i3mmkter",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0627\u0644\u0633\u0627\u0633\u064a",
+    "phone": "0798379365",
+    "comments": "3dn2i3mmkter",
+    "country": "DZ",
+    "ip_address": "154.121.100.119",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Mobile Safari\/537.36",
+    "sub1": "3dn2i3mmkter",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24743194}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 17:30:30
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1ub8tieml2ca",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "557005289",
+    "phone": "+3362013119",
+    "comments": "1ub8tieml2ca",
+    "country": "DZ",
+    "ip_address": "105.235.133.237",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2015 Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;] [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "1ub8tieml2ca",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24743786}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 19:26:24
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1rgpp4ml78v",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Merabet abdelouahad",
+    "phone": "0699397814",
+    "comments": "1rgpp4ml78v",
+    "country": "DZ",
+    "ip_address": "154.121.60.173",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; SM-M146B Build\/UP1A.231005.007; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/468.1.0.56.78;]",
+    "sub1": "1rgpp4ml78v",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120213039068200747_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24744442}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 21:56:00
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "4lj2a8mlel3",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0633\u0639\u064a\u062f",
+    "phone": "0555262217",
+    "comments": "4lj2a8mlel3",
+    "country": "DZ",
+    "ip_address": "105.235.139.210",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.186 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/fr_FR;FBAV\/415.0.0.12.100;]",
+    "sub1": "4lj2a8mlel3",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120213039068200747_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24745301}
+
+-------------------------------
+
+Date (UTC): 07/20/2024 23:09:05
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "pttc41mlhn3",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Menas",
+    "phone": "0670141380",
+    "comments": "pttc41mlhn3",
+    "country": "DZ",
+    "ip_address": "197.202.6.71",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; CPH2565 Build\/UP1A.230620.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "pttc41mlhn3",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24745685}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 00:41:07
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "3av114hmll7r",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Fetissi  Md. Bachir ",
+    "phone": "0771905059",
+    "comments": "3av114hmll7r",
+    "country": "DZ",
+    "ip_address": "105.103.16.185",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; 23129RN51X Build\/UP1A.231005.007; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/467.1.0.45.109;]",
+    "sub1": "3av114hmll7r",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120213039068200747_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24746188}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 00:58:12
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "21b1ch2mlman",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Farid",
+    "phone": "0773821146",
+    "comments": "21b1ch2mlman",
+    "country": "DZ",
+    "ip_address": "129.45.119.185",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-M215G Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.170 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "21b1ch2mlman",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24746290}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 01:24:32
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "i8gbfrmln60",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0645\u0644\u0648\u0643 \u0635\u0627\u0644\u062d",
+    "phone": "0772099342",
+    "comments": "i8gbfrmln60",
+    "country": "DZ",
+    "ip_address": "105.106.89.8",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 12; RMX3690 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "i8gbfrmln60",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24746423}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 01:57:34
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "stvdftmlp8o",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u064a\u0648\u0633\u0641",
+    "phone": "0664676377",
+    "comments": "stvdftmlp8o",
+    "country": "DZ",
+    "ip_address": "197.113.161.42",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; SM-J410F Build\/M1AJB; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "stvdftmlp8o",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24746578}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 02:04:00
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "2n5q7rrmlpmk",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Bachire",
+    "phone": "0554648028",
+    "comments": "2n5q7rrmlpmk",
+    "country": "DZ",
+    "ip_address": "105.235.138.242",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/125.0.0.0 Mobile Safari\/537.36",
+    "sub1": "2n5q7rrmlpmk",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24746599}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 12:18:08
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "3ed5ns7mmfei",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0631\u0627\u0628\u062d \u0634\u0648\u0641\u064a",
+    "phone": "0775812788",
+    "comments": "3ed5ns7mmfei",
+    "country": "DZ",
+    "ip_address": "129.45.89.130",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; DRA-LX2 Build\/HUAWEIDRA-LX2; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.72 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/ar_AR;FBAV\/407.0.0.12.116;]",
+    "sub1": "3ed5ns7mmfei",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210498319110611_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24749957}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 13:03:18
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "2sked69mmh6o",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0639\u062f\u0627\u0631 \u0627\u0644\u0633\u0639\u064a\u062f ",
+    "phone": "0676375309",
+    "comments": "2sked69mmh6o",
+    "country": "DZ",
+    "ip_address": "154.121.15.145",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 11; M2006C3LG Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.135 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/464.0.0.60.90;]",
+    "sub1": "2sked69mmh6o",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996214450653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24750281}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 13:24:28
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "15c3vbqmmi5t",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0628\u062e\u0648\u0634 \u0639\u0628\u062f \u0627\u0644\u0641\u062a\u0627\u062d",
+    "phone": "0670193002",
+    "comments": "15c3vbqmmi5t",
+    "country": "DZ",
+    "ip_address": "154.121.86.1",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; RMX3760 Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/471.0.0.35.80;]",
+    "sub1": "15c3vbqmmi5t",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996214450653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24750436}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 13:37:11
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "2rjdgr4mmj6s",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0639 \u0627\u0644\u0648\u0647\u0627\u0628 ",
+    "phone": "0663716550",
+    "comments": "2rjdgr4mmj6s",
+    "country": "DZ",
+    "ip_address": "105.104.114.127",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 11; CPH2269 Build\/RP1A.200720.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.170 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "2rjdgr4mmj6s",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24750516}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 15:21:00
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "3gblnq9mmolv",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "AhmadBENTOUNES",
+    "phone": "0770513391",
+    "comments": "3gblnq9mmolv",
+    "country": "DZ",
+    "ip_address": "129.45.29.19",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 12; CPH2473 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "3gblnq9mmolv",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24751283}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 15:34:05
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "apc71smmpa7",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u062d\u0645\u0632\u0629",
+    "phone": "0771623255",
+    "comments": "apc71smmpa7",
+    "country": "DZ",
+    "ip_address": "129.45.108.98",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 10; SM-M305F Build\/QP1A.190711.020; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.170 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "apc71smmpa7",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211098859850024_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24751357}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 18:38:28
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "2382ttrmn2ve",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Bensaid Mansour",
+    "phone": "0550571519",
+    "comments": "2382ttrmn2ve",
+    "country": "DZ",
+    "ip_address": "105.235.134.226",
+    "user_agent": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Mobile\/20D67 [FBAN\/FBIOS;FBAV\/467.0.0.35.109;FBBV\/606980303;FBDV\/iPhone13,4;FBMD\/iPhone;FBSN\/iOS;FBSV\/16.3.1;FBSS\/3;FBID\/phone;FBLC\/fr_FR;FBOP\/5;FBRV\/610646125]",
+    "sub1": "2382ttrmn2ve",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210498319110611_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24752684}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 18:52:45
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "pi5ab8mn2s5",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0639\u0644\u0649 \u062d\u064a\u0645\u0648\u062f \u0645\u062d\u0645\u062f ",
+    "phone": "0776611631",
+    "comments": "pi5ab8mn2s5",
+    "country": "DZ",
+    "ip_address": "129.45.12.207",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 9; Redmi 8 Build\/PKQ1.190319.001; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.170 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "pi5ab8mn2s5",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24752788}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 19:31:21
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "39t45frmn4r1",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0627\u062d\u0645\u062f  ",
+    "phone": "0665723876",
+    "comments": "39t45frmn4r1",
+    "country": "DZ",
+    "ip_address": "41.105.240.254",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; SM-E045F Build\/UP1A.231005.007; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.170 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "39t45frmn4r1",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211098859850024_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24753046}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 20:01:24
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1ss9iiomn6pj",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0645\u0631\u0627\u062f \u0639\u0628\u062f\u0627\u0644\u0639\u0632\u064a\u0632 ",
+    "phone": "0797917184",
+    "comments": "1ss9iiomn6pj",
+    "country": "DZ",
+    "ip_address": "154.251.16.205",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Mobile Safari\/537.36",
+    "sub1": "1ss9iiomn6pj",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24753261}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 21:03:33
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "3bjah7amn9qh",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0627\u062d\u0645\u062f \u0628\u0646 \u062f\u062d\u0645\u0627\u0646 ",
+    "phone": "0696233463",
+    "comments": "3bjah7amn9qh",
+    "country": "DZ",
+    "ip_address": "197.202.112.13",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; SM-A042F Build\/UP1A.231005.007; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "3bjah7amn9qh",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210498319110611_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24753731}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 21:31:15
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1vk929hmnb4i",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Benchallal said",
+    "phone": "0555210779",
+    "comments": "1vk929hmnb4i",
+    "country": "DZ",
+    "ip_address": "41.99.204.140",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 11; M2010J19CG Build\/RKQ1.201004.002; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "1vk929hmnb4i",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24753915}
+
+-------------------------------
+
+Date (UTC): 07/21/2024 23:09:55
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "l75dqcmngl5",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Hamel",
+    "phone": "...21302",
+    "comments": "l75dqcmngl5",
+    "country": "DZ",
+    "ip_address": "154.251.223.77",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; Infinix X6525 Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "l75dqcmngl5",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"__all__": ["phone is incorrect"], "errmsg": "data validation error"}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 00:13:08
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1p68uh1mnk9d",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Mohamed Sahi",
+    "phone": "0779333539",
+    "comments": "1p68uh1mnk9d",
+    "country": "DZ",
+    "ip_address": "41.105.212.193",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; SM-A137F Build\/UP1A.231005.007; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "1p68uh1mnk9d",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996223410653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24754864}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 00:45:44
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "3t1ig3dmnlbh",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Adem",
+    "phone": "0658021743",
+    "comments": "3t1ig3dmnlbh",
+    "country": "DZ",
+    "ip_address": "105.103.228.232",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 9; SM-J415F Build\/PPR1.180610.011; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "3t1ig3dmnlbh",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24755030}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 01:17:02
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "25dtfb8mnn3a",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "bdellahDjouhri A",
+    "phone": "+2130556932832",
+    "comments": "25dtfb8mnn3a",
+    "country": "DZ",
+    "ip_address": "41.109.98.235",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 8.1.0; DUB-LX1 Build\/HUAWEIDUB-LX1; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "25dtfb8mnn3a",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211098859850024_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24755169}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 06:50:14
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "sja93umo6ap",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u062d\u0633\u0627 \u0646 \u0642\u0648\u0627\u062f\u0631\u064a\u0629",
+    "phone": "0662805780",
+    "comments": "sja93umo6ap",
+    "country": "DZ",
+    "ip_address": "154.121.100.222",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 12; 220733SG Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/ar_AR;FBAV\/378.0.0.12.118;]",
+    "sub1": "sja93umo6ap",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996223410653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24756245}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 08:33:45
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "1hla7eemo9e8",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Hattab Rachid adresse cite LA Plaine. Bordj menaiel w boumerdes e  bordj menaiel w boumerdes",
+    "phone": "0555096026",
+    "comments": "1hla7eemo9e8",
+    "country": "DZ",
+    "ip_address": "105.235.130.232",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; CLK-LX2 Build\/HONORCLK-L42; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "1hla7eemo9e8",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120211070228590388_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24756695}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 11:25:40
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "i9bmb2mokdv",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "FACI Morad ",
+    "phone": "0663939181",
+    "comments": "i9bmb2mokdv",
+    "country": "DZ",
+    "ip_address": "105.235.137.196",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; CMA-LX1 Build\/HONORCMA-L41CQ; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.170 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/472.0.0.45.79;]",
+    "sub1": "i9bmb2mokdv",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996223410653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24758005}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 11:29:13
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "141l2j6mok1h",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u0639\u0646\u0627\u0646\u0648 \u0639\u0628\u062f \u0627\u0644\u0639\u0632\u064a\u0632",
+    "phone": "0663784840",
+    "comments": "141l2j6mok1h",
+    "country": "DZ",
+    "ip_address": "154.121.36.54",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-M135FU Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/463.1.0.53.85;]",
+    "sub1": "141l2j6mok1h",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24758034}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 12:04:48
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "26dl5hcmon6g",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "\u062e\u0627\u0644\u062f ",
+    "phone": "0669127371",
+    "comments": "26dl5hcmon6g",
+    "country": "DZ",
+    "ip_address": "154.121.43.7",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 13; SM-A042F Build\/TP1A.220624.014; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.134 Mobile Safari\/537.36[FBAN\/EMA;FBLC\/ar_AR;FBAV\/416.0.0.10.102;]",
+    "sub1": "26dl5hcmon6g",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996223410653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24758289}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 16:22:24
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "28kcc51mpcom",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Belkenich   benaissa",
+    "phone": "0776717214",
+    "comments": "28kcc51mpcom",
+    "country": "DZ",
+    "ip_address": "129.45.94.1",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 14; SM-A346E Build\/UP1A.231005.007; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.162 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/471.0.0.35.80;]",
+    "sub1": "28kcc51mpcom",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120212617776910215_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24760309}
+
+-------------------------------
+
+Date (UTC): 07/22/2024 18:01:08
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "kgf1c4mpl24",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "Farid",
+    "phone": "0549326622",
+    "comments": "kgf1c4mpl24",
+    "country": "DZ",
+    "ip_address": "105.108.21.226",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 12; CPH2121 Build\/SP1A.210812.016; wv) AppleWebKit\/537.36 (KHTML, like Gecko) Version\/4.0 Chrome\/126.0.6478.179 Mobile Safari\/537.36 [FB_IAB\/FB4A;FBAV\/473.0.0.41.81;]",
+    "sub1": "kgf1c4mpl24",
+    "utm_source": "kate",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "120210996214450653_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24761050}
+
+-------------------------------
+
+Date (UTC): 07/23/2024 12:06:01
+
+Aff. Net: TL
+
+API: 1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3
+
+Data: 
+{
+    "key": "1IPcGkwfvW355wLqM4w9ZgZR0RqAvjw0yX6QcB0UrDRwMJ7aWg4e9KdRqfkT1Ns3",
+    "id": "h42rptmrpil",
+    "offer_id": "9791",
+    "stream_hid": "lOeHkgne",
+    "name": "test",
+    "phone": "3423423423",
+    "comments": "h42rptmrpil",
+    "country": "DZ",
+    "ip_address": "188.170.84.34",
+    "user_agent": "Mozilla\/5.0 (Linux; Android 6.0; Nexus 5 Build\/MRA58N) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/126.0.0.0 Mobile Safari\/537.36",
+    "sub1": "h42rptmrpil",
+    "utm_source": "",
+    "utm_campaign": "",
+    "utm_content": "",
+    "utm_term": "_1172",
+    "utm_medium": "ID \u043e\u0444\u0444\u0435\u0440\u0430"
+}
+
+Response: 
+{"id": 24766555}
